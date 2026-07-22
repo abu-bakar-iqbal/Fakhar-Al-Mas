@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Production & Temp
+dist/
+.vite/
+
+# Logs & Environment
+*.log
+.env
+.env.*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
